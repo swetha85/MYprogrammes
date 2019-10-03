@@ -1,3 +1,5 @@
+package OldPrograms;
+
 import java.awt.datatransfer.StringSelection;
 import java.util.Scanner;
 

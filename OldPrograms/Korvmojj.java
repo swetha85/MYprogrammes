@@ -1,3 +1,4 @@
+package OldPrograms;
 
 public class Korvmojj {
     public int amountOfSausagesLeft = 5;

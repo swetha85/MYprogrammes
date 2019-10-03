@@ -1,3 +1,5 @@
+package OldPrograms;
+
 import java.util.Scanner;
 
 public class controlflow {
